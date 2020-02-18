@@ -29,4 +29,7 @@
   <modalityUseMode>DontUse</modalityUseMode>
   <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
   <compatibilityMode>8.3.12</compatibilityMode>
+  <commonTemplates>CommonTemplate.РВ_КомпонентаРаботыСРегулярнымиВыражениямиRegExБраузеры</commonTemplates>
+  <commonTemplates>CommonTemplate.РВ_КомпонентаРаботыСРегулярнымиВыражениямиRegEx</commonTemplates>
+  <commonModules>CommonModule.РВ_РегулярныеВыраженияКлиентСервер</commonModules>
 </mdclass:Configuration>
