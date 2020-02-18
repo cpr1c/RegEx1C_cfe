@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1310fedb-d2ac-4724-9518-509d462372b7">
+  <name>РВ_КроссплатформенныеРегулярныеВыражения</name>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>CommonModule.РВ_РегулярныеВыраженияКлиентСервер</content>
+  <content>CommonTemplate.РВ_КомпонентаРаботыСРегулярнымиВыражениямиRegExБраузеры</content>
+  <content>CommonTemplate.РВ_КомпонентаРаботыСРегулярнымиВыражениямиRegEx</content>
+</mdclass:Subsystem>
