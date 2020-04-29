@@ -23,7 +23,7 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <vendor>ООО &quot;Центр прикладных разработок&quot;</vendor>
-  <version>1.0.0</version>
+  <version>1.0.1.1</version>
   <dataLockControlMode>Managed</dataLockControlMode>
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
   <modalityUseMode>DontUse</modalityUseMode>
