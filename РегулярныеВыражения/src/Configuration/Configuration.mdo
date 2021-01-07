@@ -22,8 +22,9 @@
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
   <vendor>ООО &quot;Центр прикладных разработок&quot;</vendor>
-  <version>1.0.1.1</version>
+  <version>1.2</version>
   <dataLockControlMode>Managed</dataLockControlMode>
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
   <modalityUseMode>DontUse</modalityUseMode>
@@ -33,4 +34,5 @@
   <commonTemplates>CommonTemplate.РВ_КомпонентаРаботыСРегулярнымиВыражениямиRegExБраузеры</commonTemplates>
   <commonTemplates>CommonTemplate.РВ_КомпонентаРаботыСРегулярнымиВыражениямиRegEx</commonTemplates>
   <commonModules>CommonModule.РВ_РегулярныеВыраженияКлиентСервер</commonModules>
+  <dataProcessors>DataProcessor.РВ_ТестоваяОбработка</dataProcessors>
 </mdclass:Configuration>

@@ -6,4 +6,5 @@
   <content>CommonModule.РВ_РегулярныеВыраженияКлиентСервер</content>
   <content>CommonTemplate.РВ_КомпонентаРаботыСРегулярнымиВыражениямиRegExБраузеры</content>
   <content>CommonTemplate.РВ_КомпонентаРаботыСРегулярнымиВыражениямиRegEx</content>
+  <content>DataProcessor.РВ_ТестоваяОбработка</content>
 </mdclass:Subsystem>
